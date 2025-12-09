@@ -1,0 +1,22 @@
+
+.c {
+    width: 300px;
+    height: 200px;
+    margin: 50px auto;
+    cursor: pointer;
+    
+
+    background-image: url('https://www.racingdealma.com.ar/wp-content/uploads/2017/08/LOGO-WP-8-17-150x75.png');
+    
+ 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+.c:hover {
+
+    background-image: url('https://www.racingdealma.com.ar/wp-content/uploads/2025/12/Screenshot_20251208_144043_Instagram-870x570.jpg');
+}
