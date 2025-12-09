@@ -19,4 +19,18 @@
 .c:hover {
 
     background-image: url('https://www.racingdealma.com.ar/wp-content/uploads/2025/12/Screenshot_20251208_144043_Instagram-870x570.jpg');
+
+}
+
+
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "MS Sans Serif", sans-serif;
+    font-size: 10px;
+    background-color: lightblue;
+    padding: 10px 0;
+    color: black; 
 }
